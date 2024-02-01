@@ -1,0 +1,15 @@
+D:\DPK V_STUDIO\calculator_1617\calculator_1617\bin\Debug\net6.0\calculator_1617.exe
+D:\DPK V_STUDIO\calculator_1617\calculator_1617\bin\Debug\net6.0\calculator_1617.deps.json
+D:\DPK V_STUDIO\calculator_1617\calculator_1617\bin\Debug\net6.0\calculator_1617.runtimeconfig.json
+D:\DPK V_STUDIO\calculator_1617\calculator_1617\bin\Debug\net6.0\calculator_1617.dll
+D:\DPK V_STUDIO\calculator_1617\calculator_1617\bin\Debug\net6.0\calculator_1617.pdb
+D:\DPK V_STUDIO\calculator_1617\calculator_1617\obj\Debug\net6.0\calculator_1617.csproj.AssemblyReference.cache
+D:\DPK V_STUDIO\calculator_1617\calculator_1617\obj\Debug\net6.0\calculator_1617.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPK V_STUDIO\calculator_1617\calculator_1617\obj\Debug\net6.0\calculator_1617.AssemblyInfoInputs.cache
+D:\DPK V_STUDIO\calculator_1617\calculator_1617\obj\Debug\net6.0\calculator_1617.AssemblyInfo.cs
+D:\DPK V_STUDIO\calculator_1617\calculator_1617\obj\Debug\net6.0\calculator_1617.csproj.CoreCompileInputs.cache
+D:\DPK V_STUDIO\calculator_1617\calculator_1617\obj\Debug\net6.0\calculator_1617.dll
+D:\DPK V_STUDIO\calculator_1617\calculator_1617\obj\Debug\net6.0\refint\calculator_1617.dll
+D:\DPK V_STUDIO\calculator_1617\calculator_1617\obj\Debug\net6.0\calculator_1617.pdb
+D:\DPK V_STUDIO\calculator_1617\calculator_1617\obj\Debug\net6.0\calculator_1617.genruntimeconfig.cache
+D:\DPK V_STUDIO\calculator_1617\calculator_1617\obj\Debug\net6.0\ref\calculator_1617.dll
